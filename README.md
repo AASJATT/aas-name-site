@@ -9,3 +9,4 @@ For now, I know:
 1. node.js
 1. repl.it
 2. CHALK
+I'll showcase few codes on CLI apps.
